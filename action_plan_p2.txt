@@ -1,0 +1,38 @@
+Target completion time 120 hrs
+
+Gain basic proficiency in relevant technologies/libraries [23% - 27.6 hrs]:
+	Jupyter Notebook
+	Pandas
+	Numpy
+	Matplotlib
+Read and become familiar with published description of dataset [6% - 7.2 hrs]:
+	Overview
+	Indicators (4000)
+Determine which indicators are most relevant to ascertain the following information [3% - 3.6 hrs]:
+	Which countries have a strong potential client base
+	How will this potential evolve for each country using prospective data (determine pertinent timeframe)
+	How do countries rank by number of current and potential near-term clients
+Explore the dataset [20% - 24 hrs]:
+	Filter unnecessary columns
+	Check for missing values
+	Seperate any categorical values from numerical ones
+	Check categorical values for relevancy
+	Isolate remaining numerical, boolean and enumerated values as primary interest
+	Check for outliers
+	Explore distribution of binary and numerical columns
+Clean the dataset [14% - 16.8 hrs]:
+	Narrow the number of relevant columns to no less than 4
+	Remove duplicates
+	Remove or substitute missing values
+	Remove values outside pertinent timeframe
+	Remove countries of insufficient population size
+	Remove or substitute outliers
+Analyze the dataset [18% - 21.6 hrs]:
+	Generate graphs for the mean, median and standard deviation of each selected variable for each country
+	Consider composite graphs if they seem more illustrative
+	Rank countries by attractiveness
+Prepare presentation (slideshow) [16% - 19.2 hrs]:
+	Justify reasoning for choosing indicators as relevant
+	Describe how variables were ordered by precedence
+	Display and explain generated visualizations for several of the highest and lowest ranked countries to contrast
+	Give ranked list of countries
