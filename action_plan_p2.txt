@@ -1,5 +1,7 @@
 Target completion time 120 hrs
 
+Make presentation for each phase individually (add to Drive, push to git, notify on Trello)
+
 Gain basic proficiency in relevant technologies/libraries [23% - 27.6 hrs]:
 	Jupyter Notebook
 	Pandas
@@ -8,18 +10,18 @@ Gain basic proficiency in relevant technologies/libraries [23% - 27.6 hrs]:
 Read and become familiar with published description of dataset [6% - 7.2 hrs]:
 	Overview
 	Indicators (4000)
-Determine which indicators are most relevant to ascertain the following information [3% - 3.6 hrs]:
-	Which countries have a strong potential client base
-	How will this potential evolve for each country using prospective data (determine pertinent timeframe)
-	How do countries rank by number of current and potential near-term clients
-Explore the dataset [20% - 24 hrs]:
-	Filter unnecessary columns
+Explore each dataset and ascertain which indicators are most relevant [23% - 27.6 hrs]:
+	Filter unnecessary columns (exclusionary)
 	Check for missing values
 	Seperate any categorical values from numerical ones
 	Check categorical values for relevancy
 	Isolate remaining numerical, boolean and enumerated values as primary interest
 	Check for outliers
 	Explore distribution of binary and numerical columns
+	Determine which variables indicate:
+		Which countries have a strong potential client base
+		How will this potential evolve for each country using prospective data (determine pertinent timeframe)
+		How do countries rank by number of current and potential near-term clients
 Clean the dataset [14% - 16.8 hrs]:
 	Narrow the number of relevant columns to no less than 4
 	Remove duplicates
