@@ -1,0 +1,42 @@
+Keywords: GNI, GDP
+
+
+Matching indicators:
+
+'GNI per capita, Atlas method (current US$)',
+'GNI per capita, PPP (current international $)',
+'GNI (current US$)',
+'GNI, PPP (current international $)',
+'Government expenditure per lower secondary student as % of GDP per capita (%)',
+'Government expenditure on post-secondary non-tertiary education as % of GDP (%)',
+'Government expenditure per tertiary student as % of GDP per capita (%)',
+'Government expenditure on education as % of GDP (%)',
+'GDP per capita (current US$)',
+'Government expenditure on secondary education as % of GDP (%)',
+'Government expenditure per secondary student as % of GDP per capita (%)',
+'Government expenditure in secondary institutions education as % of GDP (%)',
+'Government expenditure on primary education as % of GDP (%)',
+'Government expenditure in primary institutions as % of GDP (%)',
+'GDP per capita, PPP (current international $)',
+'Government expenditure in pre-primary institutions as % of GDP (%)',
+'Government expenditure in educational institutions as % of GDP (%)',
+'GDP per capita, PPP (constant 2011 international $)',
+'Government expenditure per post-secondary non-tertiary student as % of GDP per capita (%)',
+'GDP, PPP (constant 2011 international $)',
+'Government expenditure in tertiary institutions as % of GDP (%)',
+'Government expenditure on pre-primary education as % of GDP (%)',
+'Government expenditure per primary student as % of GDP per capita (%)',
+'GDP, PPP (current international $)',
+'GDP at market prices (constant 2005 US$)',
+'Government expenditure per upper secondary student as % of GDP per capita (%)',
+'GDP at market prices (current US$)',
+'GDP per capita (constant 2005 US$)',
+'Government expenditure in post-secondary non-tertiary institutions as % of GDP (%)',
+'Government expenditure on tertiary education as % of GDP (%)',
+
+
+Preliminary selection:
+
+'GNI per capita, PPP (current international $)',
+
+'GDP per capita, PPP (current international $)',
